@@ -20,11 +20,3 @@
   ```bash
   git clone git@github.com:luizaogura/luiza-ogura-project-js-unit-tests.git
   ```
-
-## Executando aplicação
-
-* Para rodar o front-end:
-
-  ```bash
-  cd luiza-ogura-project-js-unit-tests
-  ```
