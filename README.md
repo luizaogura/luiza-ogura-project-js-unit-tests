@@ -11,6 +11,8 @@
   - Escrever funções de forma que elas atendam a testes já implementados;
   - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
+</details>
+  
 ## Instalando Dependências
 
 * clone o projeto:
